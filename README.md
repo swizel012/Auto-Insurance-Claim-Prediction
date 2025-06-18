@@ -26,19 +26,19 @@ Credit Score, Annual Mileage, and more
 - XGBoost
 - Gaussian NB
 
-⚙️ Methodology
+## ⚙️ Methodology
 - Data Preprocessing: Handling missing values (fillna), encoding, and scaling
 - SMOTE: Used to address class imbalance
 - Exploratory Data Analysis: Visualizations, correlation analysis
 - Model Selection: Based on accuracy, precision, recall, and AUC
 - Hyperparameter Tuning: Performed using GridSearchCV
 
-🏆 Results
+## 🏆 Results
 - XGBoost achieved the best performance:
 - Accuracy: 85.45%
 - AUC Score: 0.92
 
-📈 Evaluation Metrics
+## 📈 Evaluation Metrics
 - Confusion Matrix
 - Accuracy
 - ROC Curve
